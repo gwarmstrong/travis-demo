@@ -1,4 +1,4 @@
-import nicole_task
+from travis_demo import nicole_task
 import unittest
 
 

@@ -1,4 +1,5 @@
 import numpy as np
+import biom
 
 
 def sum_plus_one(x1, x2):

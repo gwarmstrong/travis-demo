@@ -1,5 +1,5 @@
 import numpy as np
-import biom
+import biom import load_table
 
 
 def sum_plus_one(x1, x2):
@@ -19,4 +19,5 @@ def sum_plus_one(x1, x2):
         is a scalar if both x1 and x2 are scalars.
 
     """
+    load_table
     return np.add(x1, x2) + 1

@@ -1,5 +1,5 @@
 import numpy as np
-import biom import load_table
+from biom import load_table
 
 
 def sum_plus_one(x1, x2):
